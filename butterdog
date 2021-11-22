@@ -1,0 +1,6 @@
+git config user.name "SobolND"
+git config user.email "sobolnd@kuzstu.ru"
+git init
+echo "what-the-dog-doing" > READ.mb
+git status
+git add READ.mb
